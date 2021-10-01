@@ -1,0 +1,148 @@
+{
+  "navbar": {
+    "links": [
+      { "name": "O TENFERTIL", "href": "/#about" },
+      { "name": "FAKTY I PORADY", "href": "/#facts" },
+      { "name": "KONTAKT", "href": "/#footer" }
+    ]
+  },
+  "title": {
+    "paragraph": "Suplement diety dla kobiet starających się o dzieci.",
+    "heading": "Optymalne wsparcie płodności"
+  },
+  "aboutTenferil": {
+    "heading": "Jest prostym, innowacyjnym, bezpiecznym, a przede wszystkim skutecznym sposobem wspierania zdrowia kobiet w wieku rozrodczym.",
+    "paragraph": "Składniki: mio-inozytol, octan dl-alfa-tokoferylu(witamina e), dwuwinian choliny, kwas l-askorbinowy (witamina c), glukonian cynku, koenzym q10 (ubichinon), d-chiro-inositol, witamina d3, witamina b6, cyjanokobalamina (witamina b12), l-metylofolian wapnia (kwas foliowy).",
+    "buttonLabel": "pobierz ulotkę"
+  },
+  "leftBorderP": [
+    "Decyzja o macierzyństwie to jedna z najważniejszych decyzji w Twoim życiu. To jednocześnie moment, w którym wraz ze swoim partnerem ruszycie w niezwykłą podróż po swoje dzieci. Jest to również ogromna odpowiedzialności, aby w okresie starań o ciążę stworzyć jak najlepsze warunki do poczęcia.",
+
+    "Jedną z najważniejszych rzeczy, o które musisz zadbać to dostarczanie odpowiedniej liczby witamin, mikroelementów i innych niezbędnych substancji, na długo przed zajściem w ciążę. Efektem suplementacji będzie prawidłowe środowisko do przebiegu Twojego cyklu miesięcznego, owulacji, zapłodnienia i rozwoju wczesnej ciąży.",
+
+    "Pamiętaj, że suplementację, aby jej efekty był maksymalny, musisz rozpocząć kilka miesięcy przed ciążą.",
+
+    "Poza jakością i dojrzewaniem komórek jajowych, właściwa suplementacja w okresie starań o ciążę, będzie mieć wpływ na szereg funkcji ustrojowych w tym układ odpornościowy, funkcję tarczycy, produkcję energii czy ogólny stan zdrowia.",
+
+    "Bądź odpowiedzialna, pomóż sobie i swojemu dziecku."
+  ],
+  "breakerFacts": {
+    "heading": "Jesteś kobietą\ni planujesz zdrowe potomstwo?",
+    "texts": ["Czy wiesz że?"],
+    "id": "facts"
+  },
+  "facts": [
+    {
+      "header": "Kobieca niepłodność",
+      "text": "Szacuje się, że około 15-20% par w wieku rozrodzczym w Polsce cierpi na niepłodność. U kobiet powodem są w 1/3 przypadków zaburzenia hormonalne i zaburzenia jajeczkowania."
+    },
+    {
+      "header": "Cykl owulacyjny",
+      "text": "Rozpoczyna się 3 miesiące przed ostateczną owulacją, kiedy w jajnikach wyselekcjonuje się pula pęcherzyków pierwotnych (w tym czasie kończą się dwa wcześniej rozpoczęte cykle). Około 90% pęcherzyków pierwotnych ulega degeneracji, co oznacza, iż w chwili rozpoczęcia krwawienia miesięcznego w jajnikach pozostaje grupa pęcherzyków gotowych do dalszego rozwoju. Finalnie w momencie owulacji w większości cykli dojrzewa i owuluje tylko jeden pęcherzyk jajnikowy - pozostałe degenrują.\nJest to właśnie te kilka miesięcy, w których dostaczanie wszystkich niezbędnych składników potrzebnych do wzrostu i dojrzewania komórek jajowych jest kluczowe!"
+    },
+    {
+      "header": "Inozytol",
+      "text": "Nazywany jest witaminą B-8. Wpływa na wiele funkcji organizmu, w tym na zmniejszanie insulinooporności i regulkowanie poziomu cukru. Udowodniono, że inozytol poprawia funkcjionowanie jajników oraz płodność u kobiet chorujących na zespół policystycznych jajników. Tym samym reguluje miesiączki, pozytywnie wpływa na owulację oraz zwiększa szanse na zajście w ciążę."
+    },
+    {
+      "header": "Koenzym Q10",
+      "text": "Związek ten jest znany przede wszystkim ze swoich właściwości antyoksydacyjnych. Wolne rodniki skracają żywotność komórek jajowych i powodują pogorszenie ich jakości. Koenzym Q10 hamuje działanie wolnych rodnikówi i niszczy je. Wśród szeregu funkcji, które jeszcze spełniam, warto wiedzieć, że minimalizuje stres oksydacyjny, który także wpływa na kobiecą płodność. Wykazano, że może on uszkadzać oocyty i upośledzać ich zdolność do zapłodnienia, a nawet prowadzić do fragmentacji zarodków i poronień."
+    },
+    {
+      "header": "Metylowany kwas foliowy",
+      "text": "Szacuje się, że nawet 50% kobiet w populacji ma mutację genu kodującego enzym odpowiedzialny za przetwarzanie kwasu foliowego do jego aktywnej formy. Dlatego wiele pań potrzebuje jego zmetylowanej wersji. Kwas foliowy to podstawa suplementacji, jeśli chcemy zajść w ciążę. Bierze udział w kształtowaniu się cewy nerwowej u płodu, zmieniejszając u niego ryzyko powstania licznych wad rozwojowych."
+    }
+  ],
+  "breakerTips": {
+    "heading": "Jesteś kobietą\ni planujesz zdrowe potomstwo?",
+    "texts": [
+      "Nic prostszego - zadbaj o siebie!\nPrzygotuj się do tego ważnego faktu pamiętając o naszych radach"
+    ],
+    "id": "facts"
+  },
+  "tips": [
+    {
+      "image": "<S1weight />",
+      "header": "pilnuj",
+      "text": "Regularnie odwiedzaj ginekologa, wykonuj niezbędne badania"
+    },
+    {
+      "image": "<S2apple />",
+      "header": "stosuj dietę",
+      "text": "Zdrowo się odżywiaj, jedz warzywa, nabiał, produkty bogate w nienasycone kwasy tłuszczowe"
+    },
+    {
+      "image": "<S3rope />",
+      "header": "ćwicz",
+      "text": "Unikaj stresu, wypróbuj ćwiczenia medytacyjne"
+    },
+    {
+      "image": "<S4body />",
+      "header": "schudnij",
+      "text": "Utrzymuj prawidłową wagę, schudnij, jeśli masz nadwagę lub jesteś otyła"
+    },
+    {
+      "image": "<S5drugs />",
+      "header": "unikaj używek",
+      "text": "Porzuć używkim zrezygnuj z papierosów i nadmiaru kawy"
+    }
+  ],
+  "opinions": [
+    {
+      "id": 1,
+      "heading": "\"Środek naprawdę bardzo skuteczny. Dzięki niemu dziś możemy się cieszyć ciążą!\"",
+      "signature": "Oliwia, opinia na aptekazawiszy.pl"
+    },
+    {
+      "id": 2,
+      "heading": "\"Czemu jest tańszy, to nie wiem, ale na pewno jest skuteczny. Pół roku starań i mamy to! Dwie kreseczki na teście\"",
+      "signature": "Liga, opinia na gdziepolek.pl"
+    },
+    {
+      "id": 3,
+      "heading": "\"Jak najbardziej polecam, stosowałem kilka miesięcy i żona zaszła w ciążę, uważam że to zasługa tego leku\"",
+      "signature": "Sebastian, opinia na medsowa.pl"
+    },
+    {
+      "id": 4,
+      "heading": "\"Ciąża po 4 miesiącach stosowania chyba mówi sama za siebie :) Wcześniej 2 lata starań i echo. Myślę że to najlepszy lek na rynku\"",
+      "signature": "Matylda, opinia na apteka-melissa.pl"
+    }
+  ],
+  "breakerNhi": {
+    "heading": "Nutrition Health Institute",
+    "texts": [
+      "Nutrition Health Institute to firma, która koncentruje się na opracowywaniu i wytwarzaniu najnowszej generacji wieloskładnikowych preparatów farmaceutycznych, zarówno dla kobiet jak i dla mężczyzn, którzy pragną spełnić swoje największe marzenie – zostać szczęśliwymi rodzicami.",
+      "Nutrition Health Institute chce pomóc kobietom i mężczyznom w wieku rozrodczym w posiadaniu upragnionego potomstwa. Zachęcamy do zapoznania się z najnowszej generacji wieloskładnikowym preparatem TENfertil ON, który jest rekomendowany przez najlepszych w Polsce lekarzy-specjalistów zajmujących się leczeniem niepłodności."
+    ]
+  },
+  "whereToBuy": "Kup",
+  "leaflet": "/tenfertil-ulotka.pdf",
+  "learnMore": "Dowiedz się więcej",
+  "buy": {
+    "heading": "Gdzie kupić TENfertil ONA?",
+    "paragraph": "Nasz suplement diety można znaleźć online\njak i w aptekach stacjonarnych",
+    "online": "On-line",
+    "stationary": "Stacjonarnie",
+    "back": "Wróć",
+    "buy": "kup"
+  },
+  "people": {
+    "rokicki": {
+      "name": "Tomasz Rokicki",
+      "titles": [
+        "Ekspert Medyczny,",
+        "\nDoktor Nauk Medycznych,",
+        "\nSpecjalista Ginekolog-Położnik"
+      ]
+    },
+    "grodzicka": {
+      "name": "Adriana Grodzicka",
+      "titles": ["Prezes Zarządu"]
+    }
+  },
+  "notFound": {
+    "title": "404: Nie znaleziono",
+    "paragraph": "Nie ma takiej strony"
+  }
+}

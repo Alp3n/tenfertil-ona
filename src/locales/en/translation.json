@@ -1,0 +1,136 @@
+{
+  "navbar": {
+    "links": [
+      { "name": "about", "href": "/#about" },
+      { "name": "facts & advices", "href": "/#facts" },
+      { "name": "contact", "href": "/#footer" }
+    ]
+  },
+  "title": {
+    "paragraph": "Dietary supplement for men trying to have children",
+    "heading": "Optimal fertility support"
+  },
+  "aboutTenferil": {
+    "heading": "It is a simple, innovative, safe and above all effective way of supporting man’s health in child-bearing age.",
+    "paragraph": "10 ingredients: L-carnitine Choline, Organic Zinc, Vitamin C, Coenzyme Q10 (ubichinon), L-arginine, Vitamin E, Organic Selenium, Vitamin B12, Folic Acid (Calcium L-methylfolate)",
+    "buttonLabel": "DOWNLOAD THE LEAFLET"
+  },
+  "leftBorderP": [
+    "Would you like your life to become more vivid and finally start making sense? Would you like to hear one of the most beautiful words - daddy? There’s no simplest way - just get a baby!",
+
+    "Nevertheless to become a father you need to be well prepared, both mentally and physically. Remember that preparing a man is just as important as helping women in preparations for a pregnancy. It results from the fact that healthy semen plays a crucial role in the conception process. Both, the healthy lifestyle of a future father and his age have a big influence on conceiving healthy and longed-for offspring.",
+
+    "TENfertil®ON is here to help"
+  ],
+  "breakerFacts": {
+    "heading": "You are a man\nand planning to have a healthy offspring?",
+    "texts": ["Do you know that?"],
+    "id": "facts"
+  },
+  "facts": [
+    {
+      "header": "ALMOST 1/3 OF PATIENTS",
+      "text": "Suffering from the fact of not having children has idiopathic infertility (30%), which means that the reasons haven’t been established yet..."
+    },
+    {
+      "header": "OXIDATIVE STRESS",
+      "text": "It has been proven that fertility potential (the quality of semen) is greatly affected by oxidative stress. Scientific data indicate that ingredients that are part of TENfertil ON effectively reduce oxidative stress."
+    },
+    {
+      "header": "L-CARNITINE",
+      "text": "L-Carnitine tartrate - performs protective functions against cell membranes and for sperm’s DNA against free radicals, prevents cell death, improves sperm mobility, concentration and morphology. It has been proven that an appropriate level of absorption can be achieved when taken twice daily. The medicinal effect is visible at the time of admission at least 1g per day. Higher doses cause damage to the digestive tract. TENfertil ON in 4 capsules contains 1500 mg. Administering 2 capsules twice daily provides an optimal level of L-Carnitine."
+    },
+    {
+      "header": "Choline",
+      "text": "Necessary for proper metabolism. Choline regulates lipid metabolism. It is a part of phospholipids being the part of sperm cell membrane. It reacts synergistically with vitamin B12. Additionally it improves concentration. Hence, this combination in TENfertil ON seems natural."
+    },
+    {
+      "header": "COENZYME Q10",
+      "text": "Ubichinon, endogenous antioxidant - occurs in mitochondrial cells of plants and animals. It is responsible for transmitting electrons in the respiratory chain. Supplementing CoQ10 for 3 months can improve semen parameters (mobility, concentration and morphology of sperm), it can lower the level of oxidative stress markers and lower DNA fragmentation in infertility men with idiopathic infertility."
+    },
+    {
+      "header": "ORGANIC SELENIUM",
+      "text": "L-selenomethionine (organic selenium) is a compound that is easier absorbed by the human body in comparison with inorganic compounds. Low dosage 40 mcg was used on purpose in order to reduce risk of accumulating selenium in the human body which can lead to selenosis (diarrhoea, nausea, garlic breath, fatigue, apathy, hair loss, Alopecia, tenderness, falling and discoloration of nails, joint pains, promotion of type II diabetes)."
+    }
+  ],
+  "breakerTips": {
+    "heading": "You are a man\nand planning to have a healthy baby?",
+    "texts": [
+      "Take care of yourself - it’s that simple!\nPrepare to this important decision remembering about our advices"
+    ],
+    "id": "facts"
+  },
+  "tips": [
+    {
+      "image": "<S1weight />",
+      "header": "MAKE SURE",
+      "text": "you have the right weight! If you are overweight, try to lose extra kilograms!"
+    },
+    {
+      "image": "<S2apple />",
+      "header": "EAT HEALTHY",
+      "text": "and follow a balanced diet! Choose only good products!"
+    },
+    {
+      "image": "<S3rope />",
+      "header": "EXERCISE",
+      "text": "regularly – 3 times a week! Walk plenty!"
+    },
+    {
+      "image": "<S4body />",
+      "header": "WEAR",
+      "text": "loose clothes made from natural fabrics! Avoid tight underwear and pants!"
+    },
+    {
+      "image": "<S5drugs />",
+      "header": "AVOID",
+      "text": "any recreational drugs!"
+    }
+  ],
+  "breakerNhi": {
+    "heading": "Nutrition Health Institute",
+    "texts": [
+      "Nutrition Health Institute is a company that concentrates on development and production of the newest generation of multicomponent pharmaceutical preparations, both for men and women who would like to make their biggest dream come true – become happy parents.",
+      "Nutrition Health Institute would like to help men in a child-bearing age to get long-awaited offspring. We encourage you to learn about the newest generation of multicomponent pharmaceutical preparation TENfertil ON which is recommended by the best medical specialist treating infertility in Poland."
+    ]
+  },
+  "whereToBuy": "Buy",
+  "leaflet": "/tenfertil-ulotka.pdf",
+  "learnMore": "Learn more",
+  "buy": {
+    "heading": "Where to buy TENfertil ON",
+    "paragraph": "Our dietary suplement can be found online\nas also stationary",
+    "online": "On-line",
+    "stationary": "Stationary",
+    "back": "Back",
+    "buy": "Buy"
+  },
+  "people": {
+    "rokicki": {
+      "name": "Tomasz Rokicki",
+      "titles": [
+        "Medical Expert,",
+        "\nDoctor of Medical Science,",
+        "\nGynecologist-Obstetrician Specialist"
+      ]
+    },
+    "grodzicka": {
+      "name": "Adriana Grodzicka",
+      "titles": ["Chairman of the Board"]
+    },
+    "wolski": {
+      "name": "Jan Karol Wolski",
+      "titles": [
+        "Medical Expert, Urologist,",
+        "\nEBU 4860,",
+        "\nPediatric Surgeon Specialist,",
+        "\nChildren's Urlog Specialist,",
+        "\nClinical Andrologist, PSA Certificate"
+      ]
+    }
+  },
+  "notFound": {
+    "title": "404: Not Found",
+    "paragraph": "There is no website like this"
+  }
+}

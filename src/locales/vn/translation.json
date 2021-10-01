@@ -1,0 +1,136 @@
+{
+  "navbar": {
+    "links": [
+      { "name": "công dụng của TENfirtil ON", "href": "/#about" },
+      { "name": "SỰ THẬT VÀ LỜI KHUYÊN", "href": "/#facts" },
+      { "name": "Liên hệ", "href": "/#footer" }
+    ]
+  },
+  "title": {
+    "paragraph": "Bổ sung chế độ ăn uống cho nam giới đang cố gắng có con",
+    "heading": "Hỗ trợ sinh sản tối ưu"
+  },
+  "aboutTenferil": {
+    "heading": "Sản phẩm được bào chế theo công nghệ hiện đại với nguồn nguyên liệu an toàn, chất lượng. TENfirtil On được đánh giá rất cao trong việc tối ưu hoá được mọi tính năng của sinh sản, hỗ trợ sinh lý nam tối ưu nhất.",
+    "paragraph": "Gồm có 10 thành phần chính: Carnitine, Choline, kẽm, Vitamin C, Coenzyme Q10, Axit Amin, Vitamin E, Selen, Vitamin B12, Axit Folic.",
+    "buttonLabel": "tải nội dung hướng dẫn sử dụng thuốc"
+  },
+  "leftBorderP": [
+    "Bạn muốn cuộc đời có thêm sức sống và ý nghĩa hơn? Bạn đang ao ước được làm bố? Còn chần chừ gì, hãy cùng chúng tôi cố gắng để ước mơ của bạn được thành công!",
+    "Tuy nhiên, bạn cần chuẩn bị đúng cách cả về mặt tinh thần lẫn thể chất. Bạn nên nhớ rằng, việc giúp một người đàn ông cũng quan trọng như việc chuẩn bị cho người phụ nữ chuẩn bị mang thai. Tinh trùng khỏe mạnh đóng một vai trò rất quan trọng trong quá trình thụ thai. Từ lối sống đến độ tuổi của người đàn ông đều có tác động đến sức khỏe của thai nhi sau này.",
+    "TENfertil ON luôn sẵn sàng đồng hành cùng bạn"
+  ],
+
+  "breakerFacts": {
+    "heading": "Bạn là đàn ông và bạn đang có kế hoạch sinh con khỏe mạnh?",
+    "texts": ["Bạn có biết rằng?"],
+    "id": "facts"
+  },
+  "facts": [
+    {
+      "header": "gần 1/3 bệnh nhân",
+      "text": "Những người không có khả năng sinh con bị vô sinh vô căn (30%), tức là không có nguyên nhân..."
+    },
+    {
+      "header": "ứng kích oxy hoá",
+      "text": "Là một chất vô cùng quan trọng trong việc giúp cải thiện chất lượng và kích thích sự tăng trưởng của tinh trùng. Dựa trên một số nghiên cứu cho thấy rằng các thành phần chứa trong TENfertil ON mang lại hiểu quả rất cao trong việc giảm oxy hoá."
+    },
+    {
+      "header": "carnitine",
+      "text": "Thuộc dạng Natri Tartrate - có tính năng bảo vệ màng tế bào và DNA của tinh trùng chống lại các gốc tự do trong cơ thể có hại cho bạn, đảm bảo duy trì sự sống và chất lượng sức khỏe tinh trùng một cách tối đa, định hướng tốt trong sự di chuyển và nâng cao hình thái của tinh trùng (kích cỡ, hình dạng). Sử dụng hai lần mỗi ngày sẽ đạt được lượng hấp thụ phù hợp nhất. Hiệu quả điều trị có thể thấy rõ khi dùng ít nhất 1 g / ngày. Nếu dùng liều cao hơn số với chỉ định có thể gây hại cho đường tiêu hóa. Ở trong 4 viên TENfertil ON có chứa tổng cộng 1500 mg. Theo tiêu chuẩn liệu trình, nên sử dụng mỗi ngày 2 lần và 1 lần 2 viên, để đảm bảo nồng độ Carnitine được cung cấp một cách tối ưu."
+    },
+    {
+      "header": "choline",
+      "text": "Choline là một chất dinh dưỡng quan trọng tương tự như  Vitamin B, có vai trò quan trọng không thể bỏ qua trong chu trình phát triển của tinh trùng. Choline điều chỉnh sự chuyển hóa lipid, là một thành phần của phospholipid và cũng là một phần màng tế bào của tinh trùng. Kết hợp cùng với vitamin B12 sẽ giúp hấp thụ tốt hơn, vì vậy TENfertil ON đã sử dụng liên hợp này trong sản phẩm."
+    },
+    {
+      "header": "Coenzyme 10 (CoQ10)",
+      "text": "Ubiquinone, chất chống oxy hóa nội sinh - được chiết xuất trong ty thể của tế bào sinh vật và động vật. Nó có nhiệm vụ hỗ trợ enzyme điều chỉnh các quá trình trao đổi chất. Bổ sung CoQ10 trong vòng 3 tháng đã có thể cải thiện khả năng di chuyển, nồng độ và hình thái của tinh trùng, giảm mức độ oxy hóa và giảm sự phân mảnh DNA ở nam giới vô sinh không có nguyên nhân."
+    },
+    {
+      "header": "selenium organic",
+      "text": "Sử dụng Selen hữu cơ sẽ giúp cơ thể con người hấp thụ nhanh và tốt hơn so với selen thường. Trong sản phẩm này được cho 1 liều selen thấp - 40 mcg vì selen hữu cơ dễ tích tụ trong cơ thể hơn. Việc thừa Selen cũng dần đến các tác hại cho cơ thể, thường xuyên xảy ra các dấu hiệu xấu như (tiêu chảy, buồn nôn, hơi thở có mùi, mệt mỏi, rụng tóc, bị hói, đổi màu móng tay, đau khớp, thúc đẩy bệnh tiểu đường giai đoạn III)."
+    }
+  ],
+  "breakerTips": {
+    "heading": "Bạn là đàn ông và bạn đang có kế hoạch sinh con khỏe mạnh?",
+    "texts": [
+      "Không có gì dễ dàng hơn - hãy chăm sóc bản thân thật tốt! Để mục tiêu của bạn đạt được sớm nhất, dưới đây là một số lời khuyên của chúng tôi mà bạn nên nhớ"
+    ],
+    "id": "facts"
+  },
+  "tips": [
+    {
+      "image": "<S1weight />",
+      "header": "DỮ GÌN",
+      "text": "để có trọng lượng cân đối với vóc dáng của bạn! Nếu bạn thừa cân, hãy cố gắng giảm!"
+    },
+    {
+      "image": "<S2apple />",
+      "header": "SỬ DỤNG",
+      "text": "một chế độ ăn uống phù hợp và cân bằng! Ăn các sản phẩm lành mạnh!"
+    },
+
+    {
+      "image": "<S3rope />",
+      "header": "TẬP THỂ DỤC",
+      "text": "đều đặn - 3 lần / 1 tuần. Đi bộ!"
+    },
+    {
+      "image": "<S4body />",
+      "header": "MẶC",
+      "text": "quần áo thoải mái làm từ chất vải tự nhiên! Bớt mặc đồ lót và quần nó sát!"
+    },
+    {
+      "image": "<S5drugs />",
+      "header": "TRÁNH",
+      "text": "tất cả các chất kích thích!"
+    }
+  ],
+  "breakerNhi": {
+    "heading": "Nutrition Health Institute",
+    "texts": [
+      "Nutrition Health Instute là công ty chuyên sâu về phát triển và sản xuất những dòng sản phẩm được chế tạo ra từ các nguyên dược liệu mới nhất, dành cho nữ và nam với ước mơ được làm bố, mẹ .",
+      "Nutrition Health Instute mong muốn được hỗ trợ sinh sản cho nam giới trong độ tuổi trưởng thành. Chúng tôi khuyến khích bạn tìm hiểu thêm về dòng sản phẩm mới TENfertil ON, dòng sản phẩm này được khuyên dùng nhiều nhất bởi các bác sĩ và các chuyên gia điều trị vô sinh hàng đầu tại Ba Lan."
+    ]
+  },
+  "whereToBuy": "nơi để mua",
+  "leaflet": "/tenfertil-ulotka-vn.pdf",
+  "learnMore": "TÌM HIỂU THÊM",
+  "buy": {
+    "heading": "Tìm kiếm chỗ bán TENfertil ON?",
+    "paragraph": "Thực phẩm bổ sung của chúng tôi có thể được\ntìm thấy trực tuyến và tại các hiệu thuốc văn phòng phẩm",
+    "online": "On-line",
+    "stationary": "Dứng im",
+    "back": "quay lại",
+    "buy": "MUA"
+  },
+  "people": {
+    "rokicki": {
+      "name": "Tomasz Rokicki",
+      "titles": [
+        "Giáo sư,",
+        "\nTiến sĩ Y Khoa,",
+        "\nBác sĩ chuyên khoa sản - phụ"
+      ]
+    },
+    "grodzicka": {
+      "name": "Adriana Grodzicka",
+      "titles": ["Chủ tịch hội đồng quản trị"]
+    },
+    "wolski": {
+      "name": "Jan Karol Wolski",
+      "titles": [
+        "Giáo Sư, bác sĩ chuyên khoa tiết niệu,",
+        "\nEBU 4860,",
+        "\nBác sĩ chuyên khoa phẫu thuật nhi",
+        "\nBác sĩ chuyên khoa tiết niệu nhi",
+        "\nBác sĩ nam khoa, đạt chứng chỉ PTA"
+      ]
+    }
+  },
+  "notFound": {
+    "title": "404: Không tìm thấy",
+    "paragraph": "Không có trang web nào như thế này"
+  }
+}
