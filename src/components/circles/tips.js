@@ -11,7 +11,7 @@ import S5drugs from "../../images/svg/s5drugs.svg"
 
 const StyledWrapper = styled.div`
   padding-left: 3rem;
-  border-left: 1px solid ${myTheme.color.button};
+  border-left: 1px solid ${myTheme.color["portrait-3"]};
 `
 
 const Tips = ({ list }) => {

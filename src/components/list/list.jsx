@@ -20,7 +20,7 @@ const StyledList = styled.div`
 const StyledListPoint = styled.div`
   display: flex;
   position: relative;
-  border-left: 1px solid ${myTheme.color.button};
+  border-left: 1px solid ${myTheme.color["portrait-3"]};
 `
 const StyledBullet = styled.div`
   position: absolute;

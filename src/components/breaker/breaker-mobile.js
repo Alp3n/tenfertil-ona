@@ -27,6 +27,7 @@ const StyledH1 = styled.h1`
 const StyledH2 = styled.h2`
   font-size: ${props => (props.plain ? "18px" : "20px")};
   font-weight: ${props => (props.plain ? "300" : "400")};
+  line-height: 1.5;
 `
 
 const BreakerMobile = ({ heading, texts, id, plain }) => {

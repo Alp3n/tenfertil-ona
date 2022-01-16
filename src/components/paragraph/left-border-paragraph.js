@@ -6,7 +6,7 @@ const StyledWrapper = styled.div`
   margin: 2rem 0;
   padding-left: 3rem;
   width: 70%;
-  border-left: 1px solid ${myTheme.color.button};
+  border-left: 1px solid ${myTheme.color["portrait-3"]};
   white-space: pre-wrap;
 `
 const StyledP = styled.p`

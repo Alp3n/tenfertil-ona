@@ -32,6 +32,7 @@ const StyledH2 = styled.h2`
   width: 80%;
   font-size: ${props => (props.plain ? "22px" : "30px")};
   font-weight: ${props => (props.plain ? "300" : "400")};
+  line-height: 1.5;
 `
 
 const Breaker = ({ texts, heading, id, plain }) => {

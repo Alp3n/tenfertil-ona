@@ -8,7 +8,7 @@ import myTheme from "../../styles/myTheme"
 
 const StyledWrapper = styled.div`
   padding-left: 3rem;
-  border-left: 1px solid ${myTheme.color.button};
+  border-left: 1px solid ${myTheme.color["portrait-3"]};
 `
 
 const AboutPeople = ({ people, label }) => {
@@ -39,7 +39,7 @@ const AboutPeople = ({ people, label }) => {
   `)
   return (
     <>
-      <StyledWrapper>
+      {/*       <StyledWrapper>
         <PersonPortrait
           image={data.rokicki.childImageSharp.fluid}
           text={people.rokicki.titles}
@@ -50,12 +50,7 @@ const AboutPeople = ({ people, label }) => {
           text={people.grodzicka.titles}
           header={people.grodzicka.name}
         />
-        {/* <PersonPortrait
-          image={data.wolski.childImageSharp.fluid}
-          text={people.wolski.titles}
-          header={people.wolski.name}
-        /> */}
-      </StyledWrapper>
+      </StyledWrapper> */}
       <div style={{ marginTop: `90px` }}>
         <Button href={`https://www.nhinstitute.pl`} label={label} />
       </div>
